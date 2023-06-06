@@ -132,4 +132,4 @@ $ python dqn.py --seed 3407
 | ------------------- | -------- | ------------------------ | ------------------------------------------- |
 | update_period           | int        | 600         | target net更新频率                                    |
 
-本代码主要框架参考自：https://github.com/tju2050633/IntroductionToAI/blob/master/hw3/README.md?plain=1
+本代码主要框架参考自：https://github.com/tju2050633/IntroductionToAI/blob/master/hw3/dqn.py
