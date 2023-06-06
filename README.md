@@ -128,7 +128,8 @@ $ python dqn.py --seed 3407
 在target DQN中，新增了一项update_period
 
 其他参数同上
-
+| 参数名称            | 参数类型 | 默认值                   | 备注                                        |
+| ------------------- | -------- | ------------------------ | ------------------------------------------- |
 | update_period           | int        | 600         | target net更新频率                                    |
 
 本代码主要框架参考自：https://github.com/tju2050633/IntroductionToAI/blob/master/hw3/README.md?plain=1
